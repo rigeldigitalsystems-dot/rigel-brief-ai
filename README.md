@@ -2,15 +2,7 @@
 
 RIGEL Brief AI, proje fikirlerini düzenli bir brief haline getiren Streamlit tabanlı MVP uygulamasıdır.
 
-## v8 final polish
-
-- Boş görünen üst satırlar kaldırıldı.
-- Başlıklar doğrudan kendi kartlarıyla birleşti.
-- “adım adım brief akışı” rozeti kaldırıldı.
-- Modern/Canva benzeri tema korundu.
-- Adım adım brief ayarları korundu.
-- Textarea köşe kusurları ve gereksiz kart boşlukları temizlendi.
-- PDF Türkçe karakter desteği korundu.
+## Uygulamanızı türkçe/ingilizce olarak kullanabileceğiniz şekilde ayarlandı. geliştirmeleri kendiniz yapabilirsiniz. bu hali ile rigel digitals'e aittir.
 
 ## Kurulum
 
